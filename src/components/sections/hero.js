@@ -48,11 +48,11 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Ola,meu nome é</h1>;
-  const two = <h2 className="big-heading">Alexandre Dutra.</h2>;
+  const two = <h2 className="big-heading">Alexandre Dutra</h2>;
   const three = (
     <p>
-      Sou estudante de Analise e Desenvolvimento de Sistemas da Fatec Mogi Mirim e estou estudando
-      pra me tornar um desenvolvedor web e de sistemas.
+      Sou estudante de Análise e Desenvolvimento de Sistemas da Fatec Mogi Mirim e desenvolvedor de
+      software Front-End
     </p>
   );
   const four = (
