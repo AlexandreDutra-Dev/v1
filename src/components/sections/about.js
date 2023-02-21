@@ -132,8 +132,6 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
-
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">Sobre mim</h2>
@@ -141,21 +139,15 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Ola! Meu nome é Alexandre Dutra, estudante de Analise e Desenvolvimento de Sistemas.</p>
-
             <p>
-            Gosto de criar coisas que vivem na Internet, sejam sites, aplicativos ou qualquer coisa entre eles.
+              Antes de me tornar um desenvolvedor de software, trabalhei como operador de máquinas.
+              Em 2021, decidi mudar de carreira e me especializar em desenvolvimento de software.
             </p>
-
             <p>
-              Estou a procura de um estágio na area de desenvolvimento para aplicar meus conhecimentos e aprender ainda mais.
+              Atualmente, sou desenvolvedor de software com habilidades em resolução de problemas,
+              trabalho em equipe e capacidade de aprender rapidamente novas tecnologias.
             </p>
-
-           
           </div>
-
-          
-         
         </StyledText>
 
         <StyledPic>

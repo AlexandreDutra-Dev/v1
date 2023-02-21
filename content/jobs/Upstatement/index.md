@@ -1,8 +1,5 @@
 ---
 company: 'Linguagens de Programação'
-
 ---
 
-- JavaScript, TypeScript,Python, Ruby.
-
-
+- JavaScript, TypeScript, Python (básico), Ruby (básico).

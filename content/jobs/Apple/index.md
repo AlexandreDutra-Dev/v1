@@ -1,8 +1,5 @@
 ---
-company: 'Frameworks e Bibliotecas'
-location: 'Cupertino, CA'
-
+company: 'Frameworks'
 ---
 
-- React, Nodejs, Express, Angular, Rails, Django.
-
+- React, Angular, NextJs (estudando).

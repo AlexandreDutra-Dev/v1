@@ -1,14 +1,15 @@
 ---
 date: '1'
-title: 'Responsive Page Headphones'
+title: 'Imovies'
 cover: './halcyon.png'
-github: 'https://github.com/AlexandreDutra-Dev/Responsive-Page-Headphones'
+github: 'https://github.com/AlexandreDutra-Dev/Clone_Movie'
 tech:
   - JavaScript
-  - HTML
-  - CSS
-  - SCSS
+  - TypeScript
+  - Angular
+  - Docker
+
 showInProjects: true
 ---
 
-Uma página responsiva sobre venda de headphones.
+Projeto usando o buscador TMDB.

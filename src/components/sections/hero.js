@@ -49,21 +49,19 @@ const Hero = () => {
 
   const one = <h1>Ola,meu nome é</h1>;
   const two = <h2 className="big-heading">Alexandre Dutra.</h2>;
-  const three = <h3 className="big-heading">Esse é meu Portfólio.</h3>;
-  const four = (
+  const three = (
     <p>
-      Sou estudante de Analise e Desenvolvimento de Sistemas da
-      Fatec Mogi Mirim e estou estudando pra me tornar um desenvolvedor web
-      e de sistemas.
+      Sou estudante de Analise e Desenvolvimento de Sistemas da Fatec Mogi Mirim e estou estudando
+      pra me tornar um desenvolvedor web e de sistemas.
     </p>
   );
-  const five = (
+  const four = (
     <a href={`mailto:${email}`} className="email-link">
       Contato
     </a>
   );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
